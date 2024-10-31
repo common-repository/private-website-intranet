@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ /*Login Form */
+ .custom-login-form {
+    padding: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
